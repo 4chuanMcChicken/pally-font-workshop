@@ -2,7 +2,7 @@
 
 简体、繁体、英文的字体制作 Skills，以及一组可以免费下载的字体与故事海报。
 
-[全部字体下载](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-All-Fonts-v1.0.0.zip) · [全部 Skills 下载](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-Font-Skills-v1.0.0.zip) · [海报下载](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-Posters-v1.0.0.zip) · [English](docs/README.en.md)
+[全部字体下载](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-All-Fonts-v1.0.1.zip) · [全部 Skills 下载](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-Font-Skills-v1.0.1.zip) · [海报下载](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-Posters-v1.0.1.zip) · [English](docs/README.en.md)
 
 ![11 套字体海报](posters/contact-sheet.jpg)
 
@@ -12,17 +12,17 @@
 
 | 这次的名字 | 原来的项目名 | 真实字重 | 字符范围 | 下载与预览 |
 |---|---|---|---|---|
-| 团子 | 小伴 | Regular / Medium | 27,809 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-tuanzi-v1.0.0.zip) · [看海报](posters/01-tuanzi.png) |
-| 霓虹回路 | Circuit | Medium | 30,231 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-neon-circuit-v1.0.0.zip) · [看海报](posters/02-neon-circuit.png) |
-| 墨有引力 | Ink | Regular | 6,763 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-ink-gravity-v1.0.0.zip) · [看海报](posters/03-ink-gravity.png) |
-| 歪歪日记 | 乱写 | Light / Regular / Medium | 22,719 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-wonky-notes-v1.0.0.zip) · [看海报](posters/04-wonky-notes.png) |
-| 云野生风 | 云野 | Regular | 6,763 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-cloudwind-v1.0.0.zip) · [看海报](posters/05-cloudwind.png) |
-| 晚风来信 | 叶舟 | Regular / Medium | 30,792 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-evening-letter-v1.0.0.zip) · [看海报](posters/06-evening-letter.png) |
-| 折光 | 葉光 | Regular | 13,215 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-prism-v1.0.0.zip) · [看海报](posters/07-prism.png) |
-| 慢慢来 | 自在 | Regular | 22,719 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-slowday-v1.0.0.zip) · [看海报](posters/08-slowday.png) |
-| 糯米日常 | 糯甜 | Light / Regular | 22,719 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-nuomi-v1.0.0.zip) · [看海报](posters/09-nuomi.png) |
-| Leafline | Leafline | Regular | 491 码位 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-leafline-v1.0.0.zip) · [看海报](posters/10-leafline.png) |
-| Sidekick | Pally | Regular | 403 码位 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.0/Pally-sidekick-v1.0.0.zip) · [看海报](posters/11-sidekick.png) |
+| 团子 | 小伴 | Regular / Medium | 27,809 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-tuanzi-v1.0.1.zip) · [看海报](posters/01-tuanzi.png) |
+| 霓虹回路 | Circuit | Medium | 30,231 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-neon-circuit-v1.0.1.zip) · [看海报](posters/02-neon-circuit.png) |
+| 墨有引力 | Ink | Regular | 6,763 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-ink-gravity-v1.0.1.zip) · [看海报](posters/03-ink-gravity.png) |
+| 歪歪日记 | 乱写 | Light / Regular / Medium | 22,719 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-wonky-notes-v1.0.1.zip) · [看海报](posters/04-wonky-notes.png) |
+| 云野生风 | 云野 | Regular | 6,763 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-cloudwind-v1.0.1.zip) · [看海报](posters/05-cloudwind.png) |
+| 晚风来信 | 叶舟 | Regular / Medium | 30,792 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-evening-letter-v1.0.1.zip) · [看海报](posters/06-evening-letter.png) |
+| 折光 | 葉光 | Regular | 13,215 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-prism-v1.0.1.zip) · [看海报](posters/07-prism.png) |
+| 慢慢来 | 自在 | Regular | 22,719 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-slowday-v1.0.1.zip) · [看海报](posters/08-slowday.png) |
+| 糯米日常 | 糯甜 | Light / Regular | 22,719 汉字映射 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-nuomi-v1.0.1.zip) · [看海报](posters/09-nuomi.png) |
+| Leafline | Leafline | Regular | 491 码位 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-leafline-v1.0.1.zip) · [看海报](posters/10-leafline.png) |
+| Sidekick | Pally | Regular | 403 码位 | [下载字体包](https://github.com/4chuanMcChicken/pally-font-workshop/releases/download/v1.0.1/Pally-sidekick-v1.0.1.zip) · [看海报](posters/11-sidekick.png) |
 
 「霓虹回路」保留原生 OTF 格式，其余为 TTF。没有把 OTF 改后缀伪装成 TTF，也没有合成不存在的粗体。
 

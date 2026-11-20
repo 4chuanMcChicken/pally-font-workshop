@@ -2,7 +2,7 @@
 
 A reference-led font workflow for Simplified Chinese, Traditional Chinese and Latin, plus 11 curated font families, 16 actual font files and narrative specimen posters.
 
-[Downloads](https://github.com/4chuanMcChicken/pally-font-workshop/releases/tag/v1.0.0) · [Chinese documentation](../README.md) · [Attribution](../ACKNOWLEDGEMENTS.md)
+[Downloads](https://github.com/4chuanMcChicken/pally-font-workshop/releases/tag/v1.0.1) · [Chinese documentation](../README.md) · [Attribution](../ACKNOWLEDGEMENTS.md)
 
 The collection distinguishes open-base selections, explicit glyph edits and shared geometric transformations. It does not claim every glyph as original, or claim that a single screenshot can reconstruct a whole typeface.
 

@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "families": 11,
   "font_files": 16,
   "poster_pngs": 11,
   "skills": 4,
-  "text_resources_checked": 116,
+  "text_resources_checked": 118,
   "checks": [
     "all font SHA256 and cmap counts",
     "actual weight metadata",

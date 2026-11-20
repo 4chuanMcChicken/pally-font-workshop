@@ -20,6 +20,10 @@ def main():
   p=ROOT/'skills'/name/'SKILL.md';m=yaml.safe_load(p.read_text().split('---',2)[1]);assert m['name']==name and m['description']
  assert 'Copyright (c) 2026 Arlan Marat' in (ROOT/'skills/make-english-font/LICENSE').read_text()
  assert len(PdfReader(ROOT/'posters/poster-catalog.pdf').pages)==len(families)
+ raster=json.loads((ROOT/'posters/raster-manifest.json').read_text())
+ assert len(raster)==len(families)+2
+ for path,digest in raster.items():
+  assert hashlib.sha256((ROOT/path).read_bytes()).hexdigest()==digest,'Re-export PNGs and contact sheet from the final PDF: '+path
  assert len(families)==11 and len(files)==16
  # Text resources must be portable and contain no workstation paths or credential-like secrets.
  checked=0
