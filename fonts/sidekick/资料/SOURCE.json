@@ -1,0 +1,42 @@
+{
+  "name": "Sidekick",
+  "former_name": "Pally",
+  "upstream": "https://github.com/googlefonts/dm-fonts",
+  "changes": "基于 DM Sans 拟合比例和分类字宽；原生 ss02 单层 a 设为默认，保留重音字映射与布局。",
+  "license_sha256": "d1f0a3fe7ed02be6062ea11cc3e9253ab99d4d0431cbd8044e5a1a000edc10cd",
+  "files": [
+    {
+      "file": "fonts/sidekick/PallySidekick-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 403,
+      "han_mappings": 0,
+      "sha256": "bcb452b14c977b80cd8f9862bbf442bd1b5e13edde27994fa216da370b73c5fd",
+      "input_sha256": "116bf0f26fb42727acbafe537898b9613e237e2e4e8b6168fbd30342aea53eee",
+      "coverage": {
+        "common3500": {
+          "covered": 0,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 0,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 0,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally",
+      "source_copyright": "Copyright 2014 The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts)\nCopyright 2026 Pally (modifications)",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

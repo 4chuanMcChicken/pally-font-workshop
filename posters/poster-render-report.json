@@ -1,0 +1,1938 @@
+{
+  "pages": 11,
+  "canvas": [
+    1170,
+    1530
+  ],
+  "png_scale": 2,
+  "layout": {
+    "image": [
+      0,
+      0,
+      1170,
+      575
+    ],
+    "caption_top": 596,
+    "specimen_box": [
+      40,
+      646,
+      1080,
+      848
+    ],
+    "symbol_separator_top": 1190
+  },
+  "rendering": "HarfBuzz-shaped actual font glyph vector outlines; raster images contain no generated text",
+  "font_sha256": {
+    "fonts/tuanzi/PallyTuanzi-Regular.ttf": "97c60be29db858ffc74fac06e3d036822d5f8bb940550deb07b82255f3879bc5",
+    "fonts/tuanzi/PallyTuanzi-Medium.ttf": "4ac3b5c8a4da1ce034a11e45d28a3e725eabdb7c4d8431db2e04276ecbff66b3",
+    "fonts/neon-circuit/PallyNeonCircuit-Medium.otf": "1ed635c85bf89261f910dab4f0c6d033ac3e1ac3e41a5eae3e861a89eb61f6e4",
+    "fonts/ink-gravity/PallyInkGravity-Regular.ttf": "f4b547feee8e1c264b58d9a35320e5d1970df76314609f290683efaa52eff230",
+    "fonts/wonky-notes/PallyWonkyNotes-Medium.ttf": "9daae8896924e4a3d5f66e0495d00c1070be7ff0ced7b21b93b80d50f0b49f0f",
+    "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf": "06e0cacb314f16049a28c4b7dd71ad65cd7fd651347e5735a12253750c8d198c",
+    "fonts/wonky-notes/PallyWonkyNotes-Light.ttf": "20d963ac4596ed030194ce3dc36c969c9e748071856ae312792aec7442139bac",
+    "fonts/cloudwind/PallyCloudwind-Regular.ttf": "7ca424b8268091f9f13ca38b993bda0c3df3f4b176d1a9d3db22c777359a7232",
+    "fonts/evening-letter/PallyEveningLetter-Medium.ttf": "82b2e3ae0539567312fcc5a885cf28f1f158e5afd624bb55497cfed7834e9373",
+    "fonts/evening-letter/PallyEveningLetter-Regular.ttf": "b489cd0a10e1f5bc270c66d93c7c303a2f55809e0e74e08c712554b81600c607",
+    "fonts/prism/PallyPrism-Regular.ttf": "9a074167eb7e9b5bd071882deef22b13fe27892fe574b1b20ff51a8c7f38aeb5",
+    "fonts/slowday/PallySlowday-Regular.ttf": "0743b288d0d874b93c9bf9d823633ab3a5e4fb447b3f27af62738f9406c87cd4",
+    "fonts/nuomi/PallyNuomi-Regular.ttf": "eb89f1879b11d7e97acb4818b4c7130579be2d365799ea82a686fee4003c44ae",
+    "fonts/nuomi/PallyNuomi-Light.ttf": "4535befde3dce992cff27c92c20bb3ef9a0314db3660a8b147dd6ff82855989a",
+    "fonts/leafline/PallyLeafline-Regular.ttf": "34ef69ee3b75a4d96ffa63f9baca89572950a1aecca9d409e8d8b3f9da6be2cb",
+    "fonts/sidekick/PallySidekick-Regular.ttf": "bcb452b14c977b80cd8f9862bbf442bd1b5e13edde27994fa216da370b73c5fd"
+  },
+  "text_blocks": [
+    {
+      "text": "团子",
+      "font": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "size": 325,
+      "x": 78,
+      "top": 171,
+      "ink_width": 604.5,
+      "ink_height": 282.43,
+      "kind": "title"
+    },
+    {
+      "text": "A LITTLE WAY HOME",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 146.66,
+      "ink_height": 11.36,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Regular / Medium / 30,912 个码位 / 27,809 个汉字码位",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 388.94,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 95.81,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "把日子，揉成软软的团子。",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 722.82,
+      "ink_height": 59.38,
+      "kind": "sample"
+    },
+    {
+      "text": "Medium / 500",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 13,
+      "x": 75,
+      "top": 879,
+      "ink_width": 79.95,
+      "ink_height": 11.84,
+      "kind": "metadata"
+    },
+    {
+      "text": "团",
+      "font": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 918,
+      "ink_width": 87.66,
+      "ink_height": 90.31,
+      "kind": "sample"
+    },
+    {
+      "text": "子",
+      "font": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 918,
+      "ink_width": 94.34,
+      "ink_height": 89.89,
+      "kind": "sample"
+    },
+    {
+      "text": "你",
+      "font": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 918,
+      "ink_width": 96.14,
+      "ink_height": 95.19,
+      "kind": "sample"
+    },
+    {
+      "text": "好",
+      "font": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 918,
+      "ink_width": 96.35,
+      "ink_height": 96.14,
+      "kind": "sample"
+    },
+    {
+      "text": "春",
+      "font": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 93.7,
+      "ink_height": 94.02,
+      "kind": "sample"
+    },
+    {
+      "text": "夏",
+      "font": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 1072,
+      "ink_width": 94.55,
+      "ink_height": 91.8,
+      "kind": "sample"
+    },
+    {
+      "text": "秋",
+      "font": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 1072,
+      "ink_width": 95.61,
+      "ink_height": 96.35,
+      "kind": "sample"
+    },
+    {
+      "text": "冬",
+      "font": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 1072,
+      "ink_width": 91.9,
+      "ink_height": 95.61,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 299.42,
+      "ink_height": 36.92,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 444.11,
+      "ink_height": 41.24,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "霓虹",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 231.44,
+      "x": 76,
+      "top": 70,
+      "ink_width": 392.06,
+      "ink_height": 212.0,
+      "kind": "title"
+    },
+    {
+      "text": "回路",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 231.44,
+      "x": 180,
+      "top": 310,
+      "ink_width": 389.52,
+      "ink_height": 205.98,
+      "kind": "title"
+    },
+    {
+      "text": "AFTER THE LAST TRAM",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 151.74,
+      "ink_height": 12.29,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Medium / 32,227 个码位 / 30,231 个汉字码位",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 319.33,
+      "ink_height": 15.52,
+      "kind": "metadata"
+    },
+    {
+      "text": "Medium / 500",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 98.4,
+      "ink_height": 14.58,
+      "kind": "metadata"
+    },
+    {
+      "text": "城市入夜，灵感接通。",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 537.73,
+      "ink_height": 61.7,
+      "kind": "sample"
+    },
+    {
+      "text": "未",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 106,
+      "x": 75,
+      "top": 918,
+      "ink_width": 86.07,
+      "ink_height": 97.63,
+      "kind": "sample"
+    },
+    {
+      "text": "来",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 106,
+      "x": 287,
+      "top": 918,
+      "ink_width": 86.18,
+      "ink_height": 97.41,
+      "kind": "sample"
+    },
+    {
+      "text": "城",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 106,
+      "x": 499,
+      "top": 918,
+      "ink_width": 87.24,
+      "ink_height": 98.05,
+      "kind": "sample"
+    },
+    {
+      "text": "市",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 106,
+      "x": 711,
+      "top": 918,
+      "ink_width": 84.59,
+      "ink_height": 98.26,
+      "kind": "sample"
+    },
+    {
+      "text": "光",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 106,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 86.28,
+      "ink_height": 97.84,
+      "kind": "sample"
+    },
+    {
+      "text": "电",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 106,
+      "x": 287,
+      "top": 1072,
+      "ink_width": 78.76,
+      "ink_height": 95.51,
+      "kind": "sample"
+    },
+    {
+      "text": "回",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 106,
+      "x": 499,
+      "top": 1072,
+      "ink_width": 78.65,
+      "ink_height": 88.83,
+      "kind": "sample"
+    },
+    {
+      "text": "路",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 106,
+      "x": 711,
+      "top": 1072,
+      "ink_width": 87.24,
+      "ink_height": 94.34,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 246.27,
+      "ink_height": 39.26,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 431.76,
+      "ink_height": 47.8,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "墨有",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 224.48,
+      "x": 76,
+      "top": 70,
+      "ink_width": 390.2,
+      "ink_height": 212.0,
+      "kind": "title"
+    },
+    {
+      "text": "引力",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 224.48,
+      "x": 180,
+      "top": 310,
+      "ink_width": 371.76,
+      "ink_height": 208.77,
+      "kind": "title"
+    },
+    {
+      "text": "THE SEA REMEMBERS",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 16,
+      "x": 760,
+      "top": 58,
+      "ink_width": 126.22,
+      "ink_height": 12.74,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Regular / 7,015 个码位 / 6,763 个汉字码位",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 298.02,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 95.81,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "落笔有声，墨自成章。",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 594.89,
+      "ink_height": 61.12,
+      "kind": "sample"
+    },
+    {
+      "text": "落",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 918,
+      "ink_width": 88.95,
+      "ink_height": 100.67,
+      "kind": "sample"
+    },
+    {
+      "text": "笔",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 918,
+      "ink_width": 83.86,
+      "ink_height": 98.34,
+      "kind": "sample"
+    },
+    {
+      "text": "成",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 918,
+      "ink_width": 86.98,
+      "ink_height": 95.08,
+      "kind": "sample"
+    },
+    {
+      "text": "章",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 918,
+      "ink_width": 71.42,
+      "ink_height": 98.19,
+      "kind": "sample"
+    },
+    {
+      "text": "山",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 89.44,
+      "ink_height": 76.4,
+      "kind": "sample"
+    },
+    {
+      "text": "河",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 1072,
+      "ink_width": 95.33,
+      "ink_height": 91.94,
+      "kind": "sample"
+    },
+    {
+      "text": "入",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 1072,
+      "ink_width": 96.64,
+      "ink_height": 57.88,
+      "kind": "sample"
+    },
+    {
+      "text": "墨",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 1072,
+      "ink_width": 77.53,
+      "ink_height": 95.94,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 182.21,
+      "ink_height": 39.21,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 355.53,
+      "ink_height": 43.43,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "歪歪",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Medium.ttf",
+      "size": 238,
+      "x": 76,
+      "top": 70,
+      "ink_width": 441.73,
+      "ink_height": 207.54,
+      "kind": "title"
+    },
+    {
+      "text": "日记",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Medium.ttf",
+      "size": 238,
+      "x": 180,
+      "top": 310,
+      "ink_width": 413.41,
+      "ink_height": 196.35,
+      "kind": "title"
+    },
+    {
+      "text": "A BEAUTIFULLY CROOKED DAY",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 252.14,
+      "ink_height": 11.33,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Light / Regular / Medium / 26,006 个码位 / 22,719 个汉字码位",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 440.06,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Light / 300",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 77.14,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "今天，也要写得有点歪。",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Light.ttf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 656.26,
+      "ink_height": 57.22,
+      "kind": "sample"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 13,
+      "x": 75,
+      "top": 879,
+      "ink_width": 77.84,
+      "ink_height": 13.21,
+      "kind": "metadata"
+    },
+    {
+      "text": "歪",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 918,
+      "ink_width": 89.46,
+      "ink_height": 91.16,
+      "kind": "sample"
+    },
+    {
+      "text": "歪",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 918,
+      "ink_width": 89.46,
+      "ink_height": 91.16,
+      "kind": "sample"
+    },
+    {
+      "text": "日",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 918,
+      "ink_width": 60.74,
+      "ink_height": 78.86,
+      "kind": "sample"
+    },
+    {
+      "text": "记",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 918,
+      "ink_width": 93.7,
+      "ink_height": 86.18,
+      "kind": "sample"
+    },
+    {
+      "text": "Medium / 500",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 13,
+      "x": 75,
+      "top": 1033,
+      "ink_width": 79.95,
+      "ink_height": 11.84,
+      "kind": "metadata"
+    },
+    {
+      "text": "乱",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Medium.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 98.16,
+      "ink_height": 94.57,
+      "kind": "sample"
+    },
+    {
+      "text": "写",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Medium.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 1072,
+      "ink_width": 85.44,
+      "ink_height": 91.8,
+      "kind": "sample"
+    },
+    {
+      "text": "自",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Medium.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 1072,
+      "ink_width": 58.09,
+      "ink_height": 94.45,
+      "kind": "sample"
+    },
+    {
+      "text": "在",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Medium.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 1072,
+      "ink_width": 91.05,
+      "ink_height": 94.45,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 291.36,
+      "ink_height": 38.17,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 505.55,
+      "ink_height": 37.55,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "云野",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 225.1,
+      "x": 76,
+      "top": 70,
+      "ink_width": 392.12,
+      "ink_height": 212.0,
+      "kind": "title"
+    },
+    {
+      "text": "生风",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 225.1,
+      "x": 180,
+      "top": 310,
+      "ink_width": 367.36,
+      "ink_height": 205.29,
+      "kind": "title"
+    },
+    {
+      "text": "LET THE WIND TAKE ITS TIME",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 218.46,
+      "ink_height": 14.55,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Regular / 7,015 个码位 / 6,763 个汉字码位",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 298.02,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 95.81,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "向云野，见青山。",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 462.43,
+      "ink_height": 69.57,
+      "kind": "sample"
+    },
+    {
+      "text": "云",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 918,
+      "ink_width": 70.87,
+      "ink_height": 99.83,
+      "kind": "sample"
+    },
+    {
+      "text": "野",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 918,
+      "ink_width": 80.09,
+      "ink_height": 98.05,
+      "kind": "sample"
+    },
+    {
+      "text": "青",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 918,
+      "ink_width": 40.73,
+      "ink_height": 101.34,
+      "kind": "sample"
+    },
+    {
+      "text": "山",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 918,
+      "ink_width": 82.87,
+      "ink_height": 79.47,
+      "kind": "sample"
+    },
+    {
+      "text": "风",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 78.86,
+      "ink_height": 96.67,
+      "kind": "sample"
+    },
+    {
+      "text": "月",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 1072,
+      "ink_width": 40.42,
+      "ink_height": 96.58,
+      "kind": "sample"
+    },
+    {
+      "text": "山",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 1072,
+      "ink_width": 82.87,
+      "ink_height": 79.47,
+      "kind": "sample"
+    },
+    {
+      "text": "川",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 1072,
+      "ink_width": 68.46,
+      "ink_height": 91.58,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 220.02,
+      "ink_height": 43.39,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 559.9,
+      "ink_height": 39.39,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "晚风",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 223.39,
+      "x": 76,
+      "top": 70,
+      "ink_width": 425.56,
+      "ink_height": 204.85,
+      "kind": "title"
+    },
+    {
+      "text": "来信",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 223.39,
+      "x": 180,
+      "top": 310,
+      "ink_width": 430.03,
+      "ink_height": 212.0,
+      "kind": "title"
+    },
+    {
+      "text": "A LETTER AT BLUE HOUR",
+      "font": "fonts/evening-letter/PallyEveningLetter-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 196.96,
+      "ink_height": 11.7,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Regular / Medium / 46,926 个码位 / 30,792 个汉字码位",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 388.94,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 95.81,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "晚风有信，字里有光。",
+      "font": "fonts/evening-letter/PallyEveningLetter-Regular.ttf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 593.22,
+      "ink_height": 59.46,
+      "kind": "sample"
+    },
+    {
+      "text": "Medium / 500",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 13,
+      "x": 75,
+      "top": 879,
+      "ink_width": 79.95,
+      "ink_height": 11.84,
+      "kind": "metadata"
+    },
+    {
+      "text": "晚",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 918,
+      "ink_width": 95.72,
+      "ink_height": 95.72,
+      "kind": "sample"
+    },
+    {
+      "text": "风",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 918,
+      "ink_width": 100.91,
+      "ink_height": 91.9,
+      "kind": "sample"
+    },
+    {
+      "text": "来",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 918,
+      "ink_width": 100.38,
+      "ink_height": 100.59,
+      "kind": "sample"
+    },
+    {
+      "text": "信",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 918,
+      "ink_width": 98.69,
+      "ink_height": 96.57,
+      "kind": "sample"
+    },
+    {
+      "text": "山",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 77.17,
+      "ink_height": 90.42,
+      "kind": "sample"
+    },
+    {
+      "text": "川",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 1072,
+      "ink_width": 82.15,
+      "ink_height": 96.46,
+      "kind": "sample"
+    },
+    {
+      "text": "岁",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 1072,
+      "ink_width": 76.43,
+      "ink_height": 98.37,
+      "kind": "sample"
+    },
+    {
+      "text": "月",
+      "font": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 1072,
+      "ink_width": 75.05,
+      "ink_height": 92.01,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/evening-letter/PallyEveningLetter-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 305.66,
+      "ink_height": 38.12,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/evening-letter/PallyEveningLetter-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 512.44,
+      "ink_height": 39.9,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "折光",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 325,
+      "x": 78,
+      "top": 171,
+      "ink_width": 596.7,
+      "ink_height": 201.5,
+      "kind": "title"
+    },
+    {
+      "text": "LIGHT TAKES ANOTHER SHAPE",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 210.05,
+      "ink_height": 12.19,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Regular / 18,145 个码位 / 13,215 个汉字码位",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 316.74,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 95.81,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "把光折成，自己的形状。",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 662.72,
+      "ink_height": 40.77,
+      "kind": "sample"
+    },
+    {
+      "text": "折",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 918,
+      "ink_width": 88.83,
+      "ink_height": 65.72,
+      "kind": "sample"
+    },
+    {
+      "text": "光",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 918,
+      "ink_width": 89.04,
+      "ink_height": 64.37,
+      "kind": "sample"
+    },
+    {
+      "text": "方",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 918,
+      "ink_width": 90.95,
+      "ink_height": 66.8,
+      "kind": "sample"
+    },
+    {
+      "text": "向",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 918,
+      "ink_width": 79.39,
+      "ink_height": 64.9,
+      "kind": "sample"
+    },
+    {
+      "text": "空",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 81.57,
+      "ink_height": 63.07,
+      "kind": "sample"
+    },
+    {
+      "text": "间",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 1072,
+      "ink_width": 79.61,
+      "ink_height": 67.33,
+      "kind": "sample"
+    },
+    {
+      "text": "线",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 1072,
+      "ink_width": 90.92,
+      "ink_height": 65.17,
+      "kind": "sample"
+    },
+    {
+      "text": "条",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 1072,
+      "ink_width": 87.77,
+      "ink_height": 66.23,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 283.45,
+      "ink_height": 41.08,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/prism/PallyPrism-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 465.15,
+      "ink_height": 37.34,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "慢慢",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 235.03,
+      "x": 76,
+      "top": 70,
+      "ink_width": 445.39,
+      "ink_height": 212.0,
+      "kind": "title"
+    },
+    {
+      "text": "来",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 235.03,
+      "x": 180,
+      "top": 310,
+      "ink_width": 196.96,
+      "ink_height": 208.47,
+      "kind": "title"
+    },
+    {
+      "text": "THERE IS NO NEED TO HURRY",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 240.43,
+      "ink_height": 11.33,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Regular / 26,006 个码位 / 22,719 个汉字码位",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 316.74,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 95.81,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "不用赶路，慢慢发芽。",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 592.26,
+      "ink_height": 59.58,
+      "kind": "sample"
+    },
+    {
+      "text": "慢",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 918,
+      "ink_width": 94.87,
+      "ink_height": 95.61,
+      "kind": "sample"
+    },
+    {
+      "text": "慢",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 918,
+      "ink_width": 94.87,
+      "ink_height": 95.61,
+      "kind": "sample"
+    },
+    {
+      "text": "来",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 918,
+      "ink_width": 88.83,
+      "ink_height": 94.02,
+      "kind": "sample"
+    },
+    {
+      "text": "吧",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 918,
+      "ink_width": 88.09,
+      "ink_height": 82.47,
+      "kind": "sample"
+    },
+    {
+      "text": "自",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 57.66,
+      "ink_height": 92.56,
+      "kind": "sample"
+    },
+    {
+      "text": "由",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 1072,
+      "ink_width": 78.02,
+      "ink_height": 90.95,
+      "kind": "sample"
+    },
+    {
+      "text": "生",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 1072,
+      "ink_width": 89.89,
+      "ink_height": 91.37,
+      "kind": "sample"
+    },
+    {
+      "text": "长",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 1072,
+      "ink_width": 91.16,
+      "ink_height": 92.22,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 291.36,
+      "ink_height": 38.17,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/slowday/PallySlowday-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 505.55,
+      "ink_height": 37.55,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "糯米",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 227.96,
+      "x": 76,
+      "top": 70,
+      "ink_width": 433.12,
+      "ink_height": 205.85,
+      "kind": "title"
+    },
+    {
+      "text": "日常",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 227.96,
+      "x": 180,
+      "top": 310,
+      "ink_width": 385.7,
+      "ink_height": 212.0,
+      "kind": "title"
+    },
+    {
+      "text": "A SUMMER MADE OF SMALL THINGS",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 291.5,
+      "ink_height": 11.33,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Light / Regular / 26,006 个码位 / 22,719 个汉字码位",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 367.86,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Light / 300",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 77.14,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "送你一颗「糯甜南瓜」",
+      "font": "fonts/nuomi/PallyNuomi-Light.ttf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 594.11,
+      "ink_height": 61.82,
+      "kind": "sample"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 13,
+      "x": 75,
+      "top": 879,
+      "ink_width": 77.84,
+      "ink_height": 13.21,
+      "kind": "metadata"
+    },
+    {
+      "text": "糯",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 918,
+      "ink_width": 100.06,
+      "ink_height": 95.72,
+      "kind": "sample"
+    },
+    {
+      "text": "米",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 918,
+      "ink_width": 89.68,
+      "ink_height": 91.8,
+      "kind": "sample"
+    },
+    {
+      "text": "日",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 918,
+      "ink_width": 60.74,
+      "ink_height": 78.86,
+      "kind": "sample"
+    },
+    {
+      "text": "常",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 918,
+      "ink_width": 87.77,
+      "ink_height": 98.58,
+      "kind": "sample"
+    },
+    {
+      "text": "甜",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 106,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 94.23,
+      "ink_height": 89.46,
+      "kind": "sample"
+    },
+    {
+      "text": "甜",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 106,
+      "x": 287,
+      "top": 1072,
+      "ink_width": 94.23,
+      "ink_height": 89.46,
+      "kind": "sample"
+    },
+    {
+      "text": "南",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 106,
+      "x": 499,
+      "top": 1072,
+      "ink_width": 93.49,
+      "ink_height": 95.61,
+      "kind": "sample"
+    },
+    {
+      "text": "瓜",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 106,
+      "x": 711,
+      "top": 1072,
+      "ink_width": 92.11,
+      "ink_height": 91.8,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 291.36,
+      "ink_height": 38.17,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 505.55,
+      "ink_height": 37.55,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "Leaf",
+      "font": "fonts/leafline/PallyLeafline-Regular.ttf",
+      "size": 245,
+      "x": 76,
+      "top": 70,
+      "ink_width": 449.45,
+      "ink_height": 186.94,
+      "kind": "title"
+    },
+    {
+      "text": "line",
+      "font": "fonts/leafline/PallyLeafline-Regular.ttf",
+      "size": 245,
+      "x": 180,
+      "top": 310,
+      "ink_width": 363.08,
+      "ink_height": 186.94,
+      "kind": "title"
+    },
+    {
+      "text": "SOME THINGS LEARN TO DRIFT",
+      "font": "fonts/leafline/PallyLeafline-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 223.54,
+      "ink_height": 11.62,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Regular / 491 个码位 / Latin",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 198.05,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 95.81,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "A lone leaf, a little room to drift.",
+      "font": "fonts/leafline/PallyLeafline-Regular.ttf",
+      "size": 64,
+      "x": 75,
+      "top": 751,
+      "ink_width": 878.14,
+      "ink_height": 51.58,
+      "kind": "sample"
+    },
+    {
+      "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "font": "fonts/leafline/PallyLeafline-Regular.ttf",
+      "size": 58,
+      "x": 75,
+      "top": 918,
+      "ink_width": 926.55,
+      "ink_height": 42.2,
+      "kind": "sample"
+    },
+    {
+      "text": "abcdefghijklmnopqrstuvwxyz",
+      "font": "fonts/leafline/PallyLeafline-Regular.ttf",
+      "size": 58,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 767.86,
+      "ink_height": 58.0,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/leafline/PallyLeafline-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 263.2,
+      "ink_height": 37.78,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/leafline/PallyLeafline-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 420.57,
+      "ink_height": 34.0,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    },
+    {
+      "text": "Side",
+      "font": "fonts/sidekick/PallySidekick-Regular.ttf",
+      "size": 245,
+      "x": 76,
+      "top": 70,
+      "ink_width": 467.21,
+      "ink_height": 180.56,
+      "kind": "title"
+    },
+    {
+      "text": "kick",
+      "font": "fonts/sidekick/PallySidekick-Regular.ttf",
+      "size": 245,
+      "x": 180,
+      "top": 310,
+      "ink_width": 423.12,
+      "ink_height": 180.56,
+      "kind": "title"
+    },
+    {
+      "text": "EVERY SMALL ADVENTURE NEEDS A FRIEND",
+      "font": "fonts/sidekick/PallySidekick-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 538,
+      "ink_width": 317.34,
+      "ink_height": 11.58,
+      "kind": "subtitle"
+    },
+    {
+      "text": "Regular / 403 个码位 / Latin",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 80,
+      "top": 596,
+      "ink_width": 198.05,
+      "ink_height": 16.96,
+      "kind": "metadata"
+    },
+    {
+      "text": "Regular / 400",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 16,
+      "x": 75,
+      "top": 684,
+      "ink_width": 95.81,
+      "ink_height": 16.26,
+      "kind": "metadata"
+    },
+    {
+      "text": "A small friend for everyday words.",
+      "font": "fonts/sidekick/PallySidekick-Regular.ttf",
+      "size": 63.71,
+      "x": 75,
+      "top": 751,
+      "ink_width": 995,
+      "ink_height": 60.21,
+      "kind": "sample"
+    },
+    {
+      "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "font": "fonts/sidekick/PallySidekick-Regular.ttf",
+      "size": 58,
+      "x": 75,
+      "top": 918,
+      "ink_width": 941.22,
+      "ink_height": 46.81,
+      "kind": "sample"
+    },
+    {
+      "text": "abcdefghijklmnopqrstuvwxyz",
+      "font": "fonts/sidekick/PallySidekick-Regular.ttf",
+      "size": 58,
+      "x": 75,
+      "top": 1072,
+      "ink_width": 777.49,
+      "ink_height": 55.51,
+      "kind": "sample"
+    },
+    {
+      "text": "数字与符号",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 17,
+      "x": 75,
+      "top": 1225,
+      "ink_width": 82.81,
+      "ink_height": 15.44,
+      "kind": "metadata"
+    },
+    {
+      "text": "0123456789",
+      "font": "fonts/sidekick/PallySidekick-Regular.ttf",
+      "size": 52,
+      "x": 75,
+      "top": 1284,
+      "ink_width": 287.25,
+      "ink_height": 37.65,
+      "kind": "sample"
+    },
+    {
+      "text": "! ? ... ( ) [ ] @ & # % + - =",
+      "font": "fonts/sidekick/PallySidekick-Regular.ttf",
+      "size": 42,
+      "x": 75,
+      "top": 1366,
+      "ink_width": 462.84,
+      "ink_height": 42.42,
+      "kind": "sample"
+    },
+    {
+      "text": "完整字体与原始许可，见下载包。 / PALLY FONT WORKSHOP",
+      "font": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "size": 12,
+      "x": 75,
+      "top": 1450,
+      "ink_width": 323.26,
+      "ink_height": 11.48,
+      "kind": "metadata"
+    }
+  ],
+  "visual_review": "All 11 pages rasterized with Poppler and inspected; no title/sample clipping, missing glyphs or false weights; final count labels follow the Chinese Skill definition.",
+  "native_outline_verification": "Public Prism/Slowday recipes rebuilt and matched all released glyf data, horizontal metrics and cmap.",
+  "source_attribution": "Per-family original copyright and OFL preserved; Skills retain Arlan Marat original MIT."
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "英文字体工作坊"
+  short_description: "根据图片参考设计英文字体，用真实小样确认风格并交付易安装的字体包与试字页"
+  default_prompt: "用 $make-english-font 参考这张图制作英文字体，先比较实际字体小样，再完成字库与手册。"

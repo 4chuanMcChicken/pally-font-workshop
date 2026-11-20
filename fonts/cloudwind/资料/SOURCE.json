@@ -1,0 +1,42 @@
+{
+  "name": "云野生风",
+  "former_name": "云野",
+  "upstream": "https://github.com/google/fonts/tree/main/ofl/liujianmaocao",
+  "changes": "保留 Liu Jian Mao Cao 原生草书轮廓；没有从参考截图提取字形。",
+  "license_sha256": "ff56684b0212481e7c3886c26d5a655de9b211c8119e5ccc756138a97b066acc",
+  "files": [
+    {
+      "file": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 7015,
+      "han_mappings": 6763,
+      "sha256": "7ca424b8268091f9f13ca38b993bda0c3df3f4b176d1a9d3db22c777359a7232",
+      "input_sha256": "d6aafc4e6c2cae67ad714b173b5e0e35d9d44bd17cb3911fff238328f0d4eedb",
+      "coverage": {
+        "common3500": {
+          "covered": 3498,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 6638,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 3328,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Yunye",
+      "source_copyright": "Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao)\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

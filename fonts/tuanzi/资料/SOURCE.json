@@ -1,0 +1,74 @@
+{
+  "name": "团子",
+  "former_name": "小伴",
+  "upstream": "https://github.com/lxgw/975Yuan",
+  "changes": "保留 975 圆原生轮廓与字重，整理字体名称和交付。",
+  "license_sha256": "e9c4c62582807c250061e07ede99f4c0c7e1a7d536e621ec68d049f1f7ee0d81",
+  "files": [
+    {
+      "file": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 30912,
+      "han_mappings": 27809,
+      "sha256": "97c60be29db858ffc74fac06e3d036822d5f8bb940550deb07b82255f3879bc5",
+      "input_sha256": "7df1ac38c03ace0cff29d4131e54e5892bd642b9f5a69fb08eda3277e6318c5c",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Xiaoban",
+      "source_copyright": "Copyright 2020-2026 LXGW (https://github.com/lxgw/975Yuan), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2014-2025 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.\nCopyright 2024-2026 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc).\nCopyright 2024-2026 Takushun Wu (https://github.com/takushun-wu/), with Reserved Font Name 'WenYuan Rounded', '文渊圆体'.\nCopyright 2020 Chun yu Yao (https://github.com/max32002/swei-gothic)\nCopyright 2019 Ek Type (www.ektype.in)\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    },
+    {
+      "file": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+      "style": "Medium",
+      "weight": 500,
+      "format": "TTF",
+      "mapped_codepoints": 30912,
+      "han_mappings": 27809,
+      "sha256": "4ac3b5c8a4da1ce034a11e45d28a3e725eabdb7c4d8431db2e04276ecbff66b3",
+      "input_sha256": "19dbac0f15275a24c44bbcb078b51f654fab009473e2bd2d82e8501c45da97b1",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Xiaoban",
+      "source_copyright": "Copyright 2020-2026 LXGW (https://github.com/lxgw/975Yuan), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2014-2025 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.\nCopyright 2024-2026 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc).\nCopyright 2024-2026 Takushun Wu (https://github.com/takushun-wu/), with Reserved Font Name 'WenYuan Rounded', '文渊圆体'.\nCopyright 2020 Chun yu Yao (https://github.com/max32002/swei-gothic)\nCopyright 2019 Ek Type (www.ektype.in)\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

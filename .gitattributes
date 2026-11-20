@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.ttf binary
+*.otf binary
+*.png binary
+*.jpg binary
+*.pdf binary
+OFL.txt -text
+LICENSE* -text
+**/assets/charsets/*.txt -text

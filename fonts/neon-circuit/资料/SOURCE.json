@@ -1,0 +1,42 @@
+{
+  "name": "霓虹回路",
+  "former_name": "Circuit",
+  "upstream": "https://github.com/welai/glow-sans",
+  "changes": "保留 Glow Sans SC Condensed Book 原生 CFF 轮廓；原生字重数值为 500，实际格式为 OTF。",
+  "license_sha256": "294348a0b170240633883e62548c2d3bc76306a5571a5235b2e407e0ace3b232",
+  "files": [
+    {
+      "file": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+      "style": "Medium",
+      "weight": 500,
+      "format": "OTF",
+      "mapped_codepoints": 32227,
+      "han_mappings": 30231,
+      "sha256": "1ed635c85bf89261f910dab4f0c6d033ac3e1ac3e41a5eae3e861a89eb61f6e4",
+      "input_sha256": "059f6eaef407034978259d07f6593cdc57918477eab69fbcf5821d6c6fb64d6b",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Circuit",
+      "source_copyright": "Glow Sans (c) 2021 Project Welai\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

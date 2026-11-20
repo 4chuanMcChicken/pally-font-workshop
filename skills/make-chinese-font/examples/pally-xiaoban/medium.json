@@ -1,0 +1,26 @@
+{
+  "family": "Pally Xiaoban",
+  "display_name": "小伴圆体",
+  "style": "Medium",
+  "weight": 500,
+  "version": "0.300",
+  "holder": "Pally",
+  "language": "zh-Hans",
+  "axes": {},
+  "subset": false,
+  "license_reviewed": true,
+  "reserved_names": [
+    "霞鹜",
+    "霞鶩",
+    "落霞孤鹜",
+    "落霞孤鶩",
+    "LXGW",
+    "Source",
+    "WenYuan Rounded",
+    "文渊圆体"
+  ],
+  "required_coverage_profiles": [
+    "common-3500",
+    "punctuation-digits"
+  ]
+}

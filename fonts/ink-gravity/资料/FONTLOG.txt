@@ -1,0 +1,5 @@
+墨有引力 1.000
+Upstream: https://github.com/google/fonts/tree/main/ofl/mashanzheng
+保留 Ma Shan Zheng 原生轮廓，整理名称、字样和交付。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

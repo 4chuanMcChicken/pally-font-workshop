@@ -1,0 +1,5 @@
+云野生风 1.000
+Upstream: https://github.com/google/fonts/tree/main/ofl/liujianmaocao
+保留 Liu Jian Mao Cao 原生草书轮廓；没有从参考截图提取字形。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

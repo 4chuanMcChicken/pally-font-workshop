@@ -1,0 +1,67 @@
+{
+  "title": "小伴",
+  "latin_name": "PALLY HAN",
+  "author": "Pally",
+  "description": [
+    "清晰，轻松，保持自己的样子。",
+    "一套用来记录日常的中文字体。"
+  ],
+  "summary": "两个原生字重 / 实际字符覆盖见字体构建报告",
+  "sample_line": "把今天，写成自己的样子。",
+  "headline": [
+    "从今天开始，",
+    "记录一点生活。"
+  ],
+  "weight_descriptions": {
+    "Regular": "日常文字，清晰自然。",
+    "Medium": "适度加重，用于标题与重点。"
+  },
+  "cjk_rows": [
+    "一二三十大小上下左右中永口日月",
+    "你好世界今天也要开心吃饭睡觉",
+    "山川草木风雨晴雪星光春夏秋冬",
+    "字形结构圆转折钩点器警藏赢露"
+  ],
+  "body": [
+    "把心情写在纸上，把生活慢慢记下。",
+    "你好，世界。今天也要好好吃饭，好好睡觉。",
+    "从一段文字开始，记录属于自己的日常。"
+  ],
+  "digits": "0123456789",
+  "cover_symbols": "！？…（）「」@ & # %",
+  "symbol_heading": "数字与符号",
+  "symbol_description": "分别展示真实存在的字重与字符。",
+  "punctuation": [
+    "，。！？；：“”‘’（）《》〈〉",
+    "【】〔〕、…—·「」『』"
+  ],
+  "symbols": [
+    "+ - = × ÷ ≤ ≥ ≈ ≠ ∞",
+    "@ & # % ‰ ° ¥ ￥ $ € £ ¢ ¼ ½ ¾"
+  ],
+  "colophon": [
+    "底库来源与许可、覆盖范围及修改记录见随字体构建的 report.json。",
+    "正式生成前，将文件路径和说明更新为本项目的实际结果。"
+  ],
+  "theme": {
+    "header": "#d8d9d0",
+    "paper": "#f5f2e9",
+    "ink": "#20251e"
+  },
+  "styles": [
+    {
+      "label": "Regular",
+      "weight": 400,
+      "font": "fonts/regular/PallyHan-Regular.ttf",
+      "webfont": "fonts/regular/PallyHan-Regular.woff2"
+    },
+    {
+      "label": "Medium",
+      "weight": 500,
+      "font": "fonts/medium/PallyHan-Medium.ttf",
+      "webfont": "fonts/medium/PallyHan-Medium.woff2"
+    }
+  ],
+  "language": "zh-Hans",
+  "embed_webfonts": true
+}

@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "families": 11,
+  "font_files": 16,
+  "poster_pngs": 11,
+  "skills": 4,
+  "text_resources_checked": 116,
+  "checks": [
+    "all font SHA256 and cmap counts",
+    "actual weight metadata",
+    "unique PostScript names",
+    "OFL notices and per-family licenses",
+    "original Arlan Marat copyright",
+    "flat family directories",
+    "all poster PNG dimensions and decoding",
+    "PDF page count",
+    "Skill frontmatter",
+    "portable paths and no credential-like strings"
+  ],
+  "not_run": [
+    "FontBakery",
+    "OTS",
+    "IVS/vertical/region certification",
+    "exhaustive all-language shaping",
+    "per-glyph aesthetic review"
+  ],
+  "status": "pass"
+}

@@ -1,0 +1,5 @@
+折光 1.000
+Upstream: https://github.com/lxgw/LxgwMarkerGothic
+公开版从 LXGW Marker Gothic 重建：全角字共享宽高变换、轻微转角与斜线弯曲；不包含私人版从截图提取的「葉」。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

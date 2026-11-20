@@ -1,0 +1,16 @@
+{
+  "source": "Yozai-Regular.ttf",
+  "source_version": "0.868",
+  "source_url": "https://github.com/lxgw/yozai-font",
+  "source_sha256": "25071998a0fe6a72f54c235e714986d259633e5ff670b1a2b5e264387f3316ac",
+  "center": [
+    500,
+    400
+  ],
+  "rotations_degrees": {
+    "自": -1.5,
+    "由": 1.5
+  },
+  "advance": "preserved",
+  "no_reference_glyphs_inserted": true
+}

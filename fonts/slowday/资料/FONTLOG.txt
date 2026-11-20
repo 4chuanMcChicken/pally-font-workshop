@@ -1,0 +1,5 @@
+慢慢来 1.000
+Upstream: https://github.com/lxgw/yozai-font
+公开版从 Yozai 重建；自/由分别轻微旋转 -1.5/+1.5 度，不包含私人版从截图提取的轮廓。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

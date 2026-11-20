@@ -1,0 +1,5 @@
+晚风来信 1.000
+Upstream: https://github.com/lxgw/LxgwWenKai
+保留 LXGW WenKai 1.530 原生轮廓与两个原生字重，整理名称与交付。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

@@ -1,0 +1,5 @@
+团子 1.000
+Upstream: https://github.com/lxgw/975Yuan
+保留 975 圆原生轮廓与字重，整理字体名称和交付。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

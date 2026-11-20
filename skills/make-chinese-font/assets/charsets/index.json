@@ -1,0 +1,42 @@
+{
+  "common-3500": {
+    "file": "common-3500.txt",
+    "language": "zh-Hans",
+    "count": 3500,
+    "sha256": "8bfcb038c8dea769d7400c947465df735060c1b4a0a09cb6fe05a4cdeffb8c43",
+    "source": "https://jw.beijing.gov.cn/language/bzgf/202105/P020210512414220837538.pdf",
+    "source_pdf_sha256": "0ff0890afc34c5e486edeebafb05350dec69a7bf0d1d75044d7d3f7b722ec3d0",
+    "version": "TGSCC-2013 IDs as reproduced in GF 0023-2020",
+    "extraction": "Serial number and UCS columns; unique IDs 0001–8105 complete; common tier uses IDs 0001–3500",
+    "scope": "Character membership only; not glyph-form or standard-conformance certification"
+  },
+  "standard-8105": {
+    "file": "standard-8105.txt",
+    "language": "zh-Hans",
+    "count": 8105,
+    "sha256": "19f152e95312be3d708e6da4f3742fc4efb6998f2ff0e4dd42aab29e5ee77823",
+    "source": "https://jw.beijing.gov.cn/language/bzgf/202105/P020210512414220837538.pdf",
+    "source_pdf_sha256": "0ff0890afc34c5e486edeebafb05350dec69a7bf0d1d75044d7d3f7b722ec3d0",
+    "version": "TGSCC-2013 IDs as reproduced in GF 0023-2020",
+    "extraction": "Serial number and UCS columns; unique IDs 0001–8105 complete; common tier uses IDs 0001–3500",
+    "scope": "Character membership only; not glyph-form or standard-conformance certification"
+  },
+  "punctuation-digits": {
+    "file": "zh-punctuation-digits.txt",
+    "language": "zh",
+    "count": 46,
+    "sha256": "73869d17ddccb6c4516824f6a8ec6fc68ed82cfa209460bf5456e9ef1aa0acb3",
+    "source": "Project-maintained Chinese UI punctuation and digits; not a national character standard",
+    "version": "1"
+  },
+  "big5-common-5401": {
+    "file": "big5-common-5401.txt",
+    "language": "zh-Hant",
+    "count": 5401,
+    "sha256": "badc197918e692cc93f61b2136f02f39066d511655137b2e33544298c1bfd82f",
+    "source": "Python 3.11.4 built-in big5 codec; valid byte pairs in A440-C67E",
+    "version": "Project mapping benchmark 1; Python 3.11.4 big5",
+    "extraction": "Lead bytes A4..C6; trail bytes 40..7E and A1..FE; stop at C67E; decode each pair as big5; 5401 unique Unicode characters",
+    "scope": "Legacy Big5 level-1 character mapping only; not Taiwan/Hong Kong glyph-form certification"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "LXGWMarkerGothic-Regular.ttf",
+  "source_version": "1.012",
+  "source_url": "https://github.com/lxgw/LxgwMarkerGothic",
+  "source_sha256": "4b1ba8f340df5d511f55ca7ba6b377de0b5e875110525de926c14849daf49416",
+  "scope": "all glyphs with advance >= 800 except .notdef",
+  "transform": {
+    "sx": 0.955,
+    "sy": 0.71,
+    "cx": 500,
+    "cy": 389,
+    "corner_radius": 5,
+    "max_diagonal_bow": 70
+  },
+  "no_reference_glyphs_inserted": true
+}

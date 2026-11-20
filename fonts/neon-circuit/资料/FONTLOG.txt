@@ -1,0 +1,5 @@
+霓虹回路 1.000
+Upstream: https://github.com/welai/glow-sans
+保留 Glow Sans SC Condensed Book 原生 CFF 轮廓；原生字重数值为 500，实际格式为 OTF。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

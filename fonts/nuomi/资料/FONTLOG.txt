@@ -1,0 +1,5 @@
+糯米日常 1.000
+Upstream: https://github.com/lxgw/yozai-font
+保留已确认的 Yozai 原生手写轮廓；这是字体选型与整理版，没有重绘全部汉字。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

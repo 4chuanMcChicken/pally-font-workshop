@@ -1,0 +1,6 @@
+Derived from arla6ka/design.how, skills/make-font
+https://github.com/arla6ka/design.how/tree/1ce5304466db2ba47a7a7524603e86df77c702bd/skills/make-font
+Upstream commit: 1ce5304466db2ba47a7a7524603e86df77c702bd
+Upstream scripts retained: fontlib, measure_font, measure_image, make_targets, fit_font, space_font (MIT).
+Pally v0.1 adds reference-led intake, native-instance release/validation, portable specimen and flat kit packaging.
+No reference images or font binaries are bundled with this Skill. Font licenses are independent of this MIT software license.

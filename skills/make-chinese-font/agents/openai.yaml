@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文字体设计｜简繁与参考"
+  short_description: "先沟通用途、简繁与图片参考，用真实小样确认风格，再验证覆盖并交付完整字体包"
+  default_prompt: "使用 $make-chinese-font 先了解我的用途、简繁需求和风格参考，给我真实字样确认后再扩展字库。"

@@ -1,0 +1,8 @@
+fonttools>=4.60
+brotli
+uharfbuzz
+Pillow
+numpy
+reportlab
+pypdf
+PyYAML

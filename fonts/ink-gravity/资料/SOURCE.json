@@ -1,0 +1,42 @@
+{
+  "name": "墨有引力",
+  "former_name": "Ink",
+  "upstream": "https://github.com/google/fonts/tree/main/ofl/mashanzheng",
+  "changes": "保留 Ma Shan Zheng 原生轮廓，整理名称、字样和交付。",
+  "license_sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08",
+  "files": [
+    {
+      "file": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 7015,
+      "han_mappings": 6763,
+      "sha256": "f4b547feee8e1c264b58d9a35320e5d1970df76314609f290683efaa52eff230",
+      "input_sha256": "3c08893ca205fde3e68af7f55d10f08682acfd1f2d6ff687cd228f799b60a596",
+      "coverage": {
+        "common3500": {
+          "covered": 3498,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 6638,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 3328,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Ink",
+      "source_copyright": "Copyright 2018 The MaShanZheng Project Authors (https://github.com/googlefonts/mashanzheng)\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

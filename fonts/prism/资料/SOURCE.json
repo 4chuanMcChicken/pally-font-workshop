@@ -1,0 +1,42 @@
+{
+  "name": "折光",
+  "former_name": "葉光",
+  "upstream": "https://github.com/lxgw/LxgwMarkerGothic",
+  "changes": "公开版从 LXGW Marker Gothic 重建：全角字共享宽高变换、轻微转角与斜线弯曲；不包含私人版从截图提取的「葉」。",
+  "license_sha256": "a5e70c8b156c4103b96a4f6af65ad6562e03c0e87373dc3ab43e04d6997ec46e",
+  "files": [
+    {
+      "file": "fonts/prism/PallyPrism-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 18145,
+      "han_mappings": 13215,
+      "sha256": "9a074167eb7e9b5bd071882deef22b13fe27892fe574b1b20ff51a8c7f38aeb5",
+      "input_sha256": "57d6058301ca5f683b8117c62499726a98bf30a01a68b9c41355e2c049d50d8d",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "LXGW Marker Gothic",
+      "source_copyright": "Copyright 2021-2026 The LXGW Marker Gothic Project Authors (https://github.com/lxgw/LxgwMarkerGothic)",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

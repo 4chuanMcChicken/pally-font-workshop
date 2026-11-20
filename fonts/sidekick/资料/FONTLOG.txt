@@ -1,0 +1,5 @@
+Sidekick 1.000
+Upstream: https://github.com/googlefonts/dm-fonts
+基于 DM Sans 拟合比例和分类字宽；原生 ss02 单层 a 设为默认，保留重音字映射与布局。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

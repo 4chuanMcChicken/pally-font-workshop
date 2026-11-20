@@ -1,0 +1,74 @@
+{
+  "name": "晚风来信",
+  "former_name": "叶舟",
+  "upstream": "https://github.com/lxgw/LxgwWenKai",
+  "changes": "保留 LXGW WenKai 1.530 原生轮廓与两个原生字重，整理名称与交付。",
+  "license_sha256": "1a25e35da1031c6c3436fde545bb9cb5aca954e9873afe510c834b8b79bd21a0",
+  "files": [
+    {
+      "file": "fonts/evening-letter/PallyEveningLetter-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 46926,
+      "han_mappings": 30792,
+      "sha256": "b489cd0a10e1f5bc270c66d93c7c303a2f55809e0e74e08c712554b81600c607",
+      "input_sha256": "22241400f1b43ade67df6f4ff82afcf2758e0d5c18fc7cc251439716b4c0de15",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Yezhou",
+      "source_copyright": "Copyright 2021-2026 LXGW (https://github.com/lxgw/LxgwWenKai), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    },
+    {
+      "file": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+      "style": "Medium",
+      "weight": 500,
+      "format": "TTF",
+      "mapped_codepoints": 46926,
+      "han_mappings": 30792,
+      "sha256": "82b2e3ae0539567312fcc5a885cf28f1f158e5afd624bb55497cfed7834e9373",
+      "input_sha256": "e2443b5bd4bb4c22eb1cb64751c13f3a88698f93ee2f3dffa0d17b3a34490c81",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Yezhou",
+      "source_copyright": "Copyright 2021-2026 LXGW (https://github.com/lxgw/LxgwWenKai), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

@@ -1,0 +1,5 @@
+歪歪日记 1.000
+Upstream: https://github.com/lxgw/yozai-font
+以 Yozai 为底库；仅「乱」「写」轻微旋转，其余轮廓继承底库。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

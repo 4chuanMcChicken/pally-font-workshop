@@ -1,0 +1,42 @@
+{
+  "name": "慢慢来",
+  "former_name": "自在",
+  "upstream": "https://github.com/lxgw/yozai-font",
+  "changes": "公开版从 Yozai 重建；自/由分别轻微旋转 -1.5/+1.5 度，不包含私人版从截图提取的轮廓。",
+  "license_sha256": "86b3a0b5162848503241d80ea9a309a6459690ba7dc547940758a6a689a53b02",
+  "files": [
+    {
+      "file": "fonts/slowday/PallySlowday-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 26006,
+      "han_mappings": 22719,
+      "sha256": "0743b288d0d874b93c9bf9d823633ab3a5e4fb447b3f27af62738f9406c87cd4",
+      "input_sha256": "24ed4fd43e86a596511c76c2a45311d0f5fda21764c4f2084e88c408be484d33",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Yozai",
+      "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

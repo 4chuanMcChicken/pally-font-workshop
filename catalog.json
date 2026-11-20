@@ -1,0 +1,824 @@
+{
+  "version": "1.0.0",
+  "families": [
+    {
+      "slug": "tuanzi",
+      "name": "团子",
+      "ascii_name": "Tuanzi",
+      "old_name": "小伴",
+      "upstream": "https://github.com/lxgw/975Yuan",
+      "changes": "保留 975 圆原生轮廓与字重，整理字体名称和交付。",
+      "sample": "把日子，揉成软软的团子。",
+      "rows": [
+        "团 子 你 好",
+        "春 夏 秋 冬"
+      ],
+      "title_lines": [
+        "团子"
+      ],
+      "colors": [
+        "#293532",
+        "#f6f1e3",
+        "#222b25"
+      ],
+      "language": "zh-Hans",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/tuanzi/PallyTuanzi-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 30912,
+          "han_mappings": 27809,
+          "sha256": "97c60be29db858ffc74fac06e3d036822d5f8bb940550deb07b82255f3879bc5",
+          "input_sha256": "7df1ac38c03ace0cff29d4131e54e5892bd642b9f5a69fb08eda3277e6318c5c",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Xiaoban",
+          "source_copyright": "Copyright 2020-2026 LXGW (https://github.com/lxgw/975Yuan), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2014-2025 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.\nCopyright 2024-2026 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc).\nCopyright 2024-2026 Takushun Wu (https://github.com/takushun-wu/), with Reserved Font Name 'WenYuan Rounded', '文渊圆体'.\nCopyright 2020 Chun yu Yao (https://github.com/max32002/swei-gothic)\nCopyright 2019 Ek Type (www.ektype.in)\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        },
+        {
+          "file": "fonts/tuanzi/PallyTuanzi-Medium.ttf",
+          "style": "Medium",
+          "weight": 500,
+          "format": "TTF",
+          "mapped_codepoints": 30912,
+          "han_mappings": 27809,
+          "sha256": "4ac3b5c8a4da1ce034a11e45d28a3e725eabdb7c4d8431db2e04276ecbff66b3",
+          "input_sha256": "19dbac0f15275a24c44bbcb078b51f654fab009473e2bd2d82e8501c45da97b1",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Xiaoban",
+          "source_copyright": "Copyright 2020-2026 LXGW (https://github.com/lxgw/975Yuan), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2014-2025 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.\nCopyright 2024-2026 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc).\nCopyright 2024-2026 Takushun Wu (https://github.com/takushun-wu/), with Reserved Font Name 'WenYuan Rounded', '文渊圆体'.\nCopyright 2020 Chun yu Yao (https://github.com/max32002/swei-gothic)\nCopyright 2019 Ek Type (www.ektype.in)\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "neon-circuit",
+      "name": "霓虹回路",
+      "ascii_name": "Neon Circuit",
+      "old_name": "Circuit",
+      "upstream": "https://github.com/welai/glow-sans",
+      "changes": "保留 Glow Sans SC Condensed Book 原生 CFF 轮廓；原生字重数值为 500，实际格式为 OTF。",
+      "sample": "城市入夜，灵感接通。",
+      "rows": [
+        "未 来 城 市",
+        "光 电 回 路"
+      ],
+      "title_lines": [
+        "霓虹",
+        "回路"
+      ],
+      "colors": [
+        "#fff1c9",
+        "#f0f2ed",
+        "#14272a"
+      ],
+      "language": "zh-Hans",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/neon-circuit/PallyNeonCircuit-Medium.otf",
+          "style": "Medium",
+          "weight": 500,
+          "format": "OTF",
+          "mapped_codepoints": 32227,
+          "han_mappings": 30231,
+          "sha256": "1ed635c85bf89261f910dab4f0c6d033ac3e1ac3e41a5eae3e861a89eb61f6e4",
+          "input_sha256": "059f6eaef407034978259d07f6593cdc57918477eab69fbcf5821d6c6fb64d6b",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Circuit",
+          "source_copyright": "Glow Sans (c) 2021 Project Welai\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "ink-gravity",
+      "name": "墨有引力",
+      "ascii_name": "Ink Gravity",
+      "old_name": "Ink",
+      "upstream": "https://github.com/google/fonts/tree/main/ofl/mashanzheng",
+      "changes": "保留 Ma Shan Zheng 原生轮廓，整理名称、字样和交付。",
+      "sample": "落笔有声，墨自成章。",
+      "rows": [
+        "落 笔 成 章",
+        "山 河 入 墨"
+      ],
+      "title_lines": [
+        "墨有",
+        "引力"
+      ],
+      "colors": [
+        "#1c292b",
+        "#f4f0e8",
+        "#1a2427"
+      ],
+      "language": "zh-Hans",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/ink-gravity/PallyInkGravity-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 7015,
+          "han_mappings": 6763,
+          "sha256": "f4b547feee8e1c264b58d9a35320e5d1970df76314609f290683efaa52eff230",
+          "input_sha256": "3c08893ca205fde3e68af7f55d10f08682acfd1f2d6ff687cd228f799b60a596",
+          "coverage": {
+            "common3500": {
+              "covered": 3498,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 6638,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 3328,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Ink",
+          "source_copyright": "Copyright 2018 The MaShanZheng Project Authors (https://github.com/googlefonts/mashanzheng)\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "wonky-notes",
+      "name": "歪歪日记",
+      "ascii_name": "Wonky Notes",
+      "old_name": "乱写",
+      "upstream": "https://github.com/lxgw/yozai-font",
+      "changes": "以 Yozai 为底库；仅「乱」「写」轻微旋转，其余轮廓继承底库。",
+      "sample": "今天，也要写得有点歪。",
+      "rows": [
+        "歪 歪 日 记",
+        "乱 写 自 在"
+      ],
+      "title_lines": [
+        "歪歪",
+        "日记"
+      ],
+      "colors": [
+        "#29385b",
+        "#f7f0e7",
+        "#30333e"
+      ],
+      "language": "zh-Hans / zh-Hant",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/wonky-notes/PallyWonkyNotes-Light.ttf",
+          "style": "Light",
+          "weight": 300,
+          "format": "TTF",
+          "mapped_codepoints": 26006,
+          "han_mappings": 22719,
+          "sha256": "20d963ac4596ed030194ce3dc36c969c9e748071856ae312792aec7442139bac",
+          "input_sha256": "fe699ae777b7fa7b784bc558514b3b433ae5d6edb11a716a5343138f82b639ac",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Luanxie",
+          "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        },
+        {
+          "file": "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 26006,
+          "han_mappings": 22719,
+          "sha256": "06e0cacb314f16049a28c4b7dd71ad65cd7fd651347e5735a12253750c8d198c",
+          "input_sha256": "73903bfc8aed36531c5dc411483c71ef1922fbd462baea7d8c6f66616191d8af",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Luanxie",
+          "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        },
+        {
+          "file": "fonts/wonky-notes/PallyWonkyNotes-Medium.ttf",
+          "style": "Medium",
+          "weight": 500,
+          "format": "TTF",
+          "mapped_codepoints": 26006,
+          "han_mappings": 22719,
+          "sha256": "9daae8896924e4a3d5f66e0495d00c1070be7ff0ced7b21b93b80d50f0b49f0f",
+          "input_sha256": "2d8d1e8fc059720a146af55313d873daa7b7871246e02eadd8f6d424775b5618",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Luanxie",
+          "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "cloudwind",
+      "name": "云野生风",
+      "ascii_name": "Cloudwind",
+      "old_name": "云野",
+      "upstream": "https://github.com/google/fonts/tree/main/ofl/liujianmaocao",
+      "changes": "保留 Liu Jian Mao Cao 原生草书轮廓；没有从参考截图提取字形。",
+      "sample": "向云野，见青山。",
+      "rows": [
+        "云 野 青 山",
+        "风 月 山 川"
+      ],
+      "title_lines": [
+        "云野",
+        "生风"
+      ],
+      "colors": [
+        "#f6e9aa",
+        "#f2eee0",
+        "#1b322d"
+      ],
+      "language": "zh-Hans",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/cloudwind/PallyCloudwind-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 7015,
+          "han_mappings": 6763,
+          "sha256": "7ca424b8268091f9f13ca38b993bda0c3df3f4b176d1a9d3db22c777359a7232",
+          "input_sha256": "d6aafc4e6c2cae67ad714b173b5e0e35d9d44bd17cb3911fff238328f0d4eedb",
+          "coverage": {
+            "common3500": {
+              "covered": 3498,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 6638,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 3328,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Yunye",
+          "source_copyright": "Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao)\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "evening-letter",
+      "name": "晚风来信",
+      "ascii_name": "Evening Letter",
+      "old_name": "叶舟",
+      "upstream": "https://github.com/lxgw/LxgwWenKai",
+      "changes": "保留 LXGW WenKai 1.530 原生轮廓与两个原生字重，整理名称与交付。",
+      "sample": "晚风有信，字里有光。",
+      "rows": [
+        "晚 风 来 信",
+        "山 川 岁 月"
+      ],
+      "title_lines": [
+        "晚风",
+        "来信"
+      ],
+      "colors": [
+        "#f9e9c9",
+        "#f5efe5",
+        "#3d302b"
+      ],
+      "language": "zh-Hans / zh-Hant",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/evening-letter/PallyEveningLetter-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 46926,
+          "han_mappings": 30792,
+          "sha256": "b489cd0a10e1f5bc270c66d93c7c303a2f55809e0e74e08c712554b81600c607",
+          "input_sha256": "22241400f1b43ade67df6f4ff82afcf2758e0d5c18fc7cc251439716b4c0de15",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Yezhou",
+          "source_copyright": "Copyright 2021-2026 LXGW (https://github.com/lxgw/LxgwWenKai), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        },
+        {
+          "file": "fonts/evening-letter/PallyEveningLetter-Medium.ttf",
+          "style": "Medium",
+          "weight": 500,
+          "format": "TTF",
+          "mapped_codepoints": 46926,
+          "han_mappings": 30792,
+          "sha256": "82b2e3ae0539567312fcc5a885cf28f1f158e5afd624bb55497cfed7834e9373",
+          "input_sha256": "e2443b5bd4bb4c22eb1cb64751c13f3a88698f93ee2f3dffa0d17b3a34490c81",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Yezhou",
+          "source_copyright": "Copyright 2021-2026 LXGW (https://github.com/lxgw/LxgwWenKai), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "prism",
+      "name": "折光",
+      "ascii_name": "Prism",
+      "old_name": "葉光",
+      "upstream": "https://github.com/lxgw/LxgwMarkerGothic",
+      "changes": "公开版从 LXGW Marker Gothic 重建：全角字共享宽高变换、轻微转角与斜线弯曲；不包含私人版从截图提取的「葉」。",
+      "sample": "把光折成，自己的形状。",
+      "rows": [
+        "折 光 方 向",
+        "空 间 线 条"
+      ],
+      "title_lines": [
+        "折光"
+      ],
+      "colors": [
+        "#f6e5ba",
+        "#f1f0e5",
+        "#213c3f"
+      ],
+      "language": "zh-Hant / zh-Hans",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/prism/PallyPrism-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 18145,
+          "han_mappings": 13215,
+          "sha256": "9a074167eb7e9b5bd071882deef22b13fe27892fe574b1b20ff51a8c7f38aeb5",
+          "input_sha256": "57d6058301ca5f683b8117c62499726a98bf30a01a68b9c41355e2c049d50d8d",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "LXGW Marker Gothic",
+          "source_copyright": "Copyright 2021-2026 The LXGW Marker Gothic Project Authors (https://github.com/lxgw/LxgwMarkerGothic)",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "slowday",
+      "name": "慢慢来",
+      "ascii_name": "Slowday",
+      "old_name": "自在",
+      "upstream": "https://github.com/lxgw/yozai-font",
+      "changes": "公开版从 Yozai 重建；自/由分别轻微旋转 -1.5/+1.5 度，不包含私人版从截图提取的轮廓。",
+      "sample": "不用赶路，慢慢发芽。",
+      "rows": [
+        "慢 慢 来 吧",
+        "自 由 生 长"
+      ],
+      "title_lines": [
+        "慢慢",
+        "来"
+      ],
+      "colors": [
+        "#50495b",
+        "#f6f1e9",
+        "#303a36"
+      ],
+      "language": "zh-Hans / zh-Hant",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/slowday/PallySlowday-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 26006,
+          "han_mappings": 22719,
+          "sha256": "0743b288d0d874b93c9bf9d823633ab3a5e4fb447b3f27af62738f9406c87cd4",
+          "input_sha256": "24ed4fd43e86a596511c76c2a45311d0f5fda21764c4f2084e88c408be484d33",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Yozai",
+          "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "nuomi",
+      "name": "糯米日常",
+      "ascii_name": "Nuomi",
+      "old_name": "糯甜",
+      "upstream": "https://github.com/lxgw/yozai-font",
+      "changes": "保留已确认的 Yozai 原生手写轮廓；这是字体选型与整理版，没有重绘全部汉字。",
+      "sample": "送你一颗「糯甜南瓜」",
+      "rows": [
+        "糯 米 日 常",
+        "甜 甜 南 瓜"
+      ],
+      "title_lines": [
+        "糯米",
+        "日常"
+      ],
+      "colors": [
+        "#304868",
+        "#f7f0df",
+        "#293829"
+      ],
+      "language": "zh-Hans",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/nuomi/PallyNuomi-Light.ttf",
+          "style": "Light",
+          "weight": 300,
+          "format": "TTF",
+          "mapped_codepoints": 26006,
+          "han_mappings": 22719,
+          "sha256": "4535befde3dce992cff27c92c20bb3ef9a0314db3660a8b147dd6ff82855989a",
+          "input_sha256": "62d8c9cb1919c9c2240a32e2dd99db2adb06d08fce17ef28e9546d8bfcd8cae0",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Nuotian",
+          "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        },
+        {
+          "file": "fonts/nuomi/PallyNuomi-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 26006,
+          "han_mappings": 22719,
+          "sha256": "eb89f1879b11d7e97acb4818b4c7130579be2d365799ea82a686fee4003c44ae",
+          "input_sha256": "30bfd33b45941548572298f512970f469e010471cea93d4622f0bcb5b0121356",
+          "coverage": {
+            "common3500": {
+              "covered": 3500,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 8105,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 5401,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Nuotian",
+          "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "leafline",
+      "name": "Leafline",
+      "ascii_name": "Leafline",
+      "old_name": "Leafline",
+      "upstream": "https://github.com/coreyhu/Urbanist",
+      "changes": "Urbanist 1.303 原生 400 底库；独立重绘 a/n/h/m/f/t，含重音组件共 38 个轮廓变化，并调整 ra/Pa 阅读字距。",
+      "sample": "A lone leaf, a little room to drift.",
+      "rows": [
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "abcdefghijklmnopqrstuvwxyz"
+      ],
+      "title_lines": [
+        "Leaf",
+        "line"
+      ],
+      "colors": [
+        "#f5edcf",
+        "#f3f0e6",
+        "#163b3a"
+      ],
+      "language": "Latin",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/leafline/PallyLeafline-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 491,
+          "han_mappings": 0,
+          "sha256": "34ef69ee3b75a4d96ffa63f9baca89572950a1aecca9d409e8d8b3f9da6be2cb",
+          "input_sha256": "e2a498c8393d4de0d7f555bac03795fae70bdf6a474cb37650fd04cd07cda8b5",
+          "coverage": {
+            "common3500": {
+              "covered": 0,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 0,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 0,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally Leafline",
+          "source_copyright": "Copyright 2021 The Urbanist Project Authors (https://github.com/coreyhu/Urbanist)",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    },
+    {
+      "slug": "sidekick",
+      "name": "Sidekick",
+      "ascii_name": "Sidekick",
+      "old_name": "Pally",
+      "upstream": "https://github.com/googlefonts/dm-fonts",
+      "changes": "基于 DM Sans 拟合比例和分类字宽；原生 ss02 单层 a 设为默认，保留重音字映射与布局。",
+      "sample": "A small friend for everyday words.",
+      "rows": [
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "abcdefghijklmnopqrstuvwxyz"
+      ],
+      "title_lines": [
+        "Side",
+        "kick"
+      ],
+      "colors": [
+        "#303e68",
+        "#f7f0df",
+        "#28363c"
+      ],
+      "language": "Latin",
+      "title_english": null,
+      "styles": [
+        {
+          "file": "fonts/sidekick/PallySidekick-Regular.ttf",
+          "style": "Regular",
+          "weight": 400,
+          "format": "TTF",
+          "mapped_codepoints": 403,
+          "han_mappings": 0,
+          "sha256": "bcb452b14c977b80cd8f9862bbf442bd1b5e13edde27994fa216da370b73c5fd",
+          "input_sha256": "116bf0f26fb42727acbafe537898b9613e237e2e4e8b6168fbd30342aea53eee",
+          "coverage": {
+            "common3500": {
+              "covered": 0,
+              "total": 3500
+            },
+            "standard8105": {
+              "covered": 0,
+              "total": 8105
+            },
+            "big5common5401": {
+              "covered": 0,
+              "total": 5401
+            }
+          },
+          "source_family": "Pally",
+          "source_copyright": "Copyright 2014 The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts)\nCopyright 2026 Pally (modifications)",
+          "checks": {
+            "all_unicode_cmaps_preserved": true,
+            "all_input_outlines_preserved": true,
+            "horizontal_metrics_preserved": true,
+            "sample_shaping_preserved": true
+          }
+        }
+      ],
+      "license": "OFL-1.1",
+      "version": "1.0.0"
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

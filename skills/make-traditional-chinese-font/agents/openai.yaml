@@ -1,0 +1,4 @@
+interface:
+  display_name: "繁體中文字体"
+  short_description: "根据已确认的字形范围匹配参考笔形，先验证核心字，再构建可安装字体"
+  default_prompt: "使用 $make-traditional-chinese-font 先了解用途和风格，并参考图片制作可比较的真实字样，确认后再扩展。"

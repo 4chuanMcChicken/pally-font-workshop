@@ -1,0 +1,106 @@
+{
+  "name": "歪歪日记",
+  "former_name": "乱写",
+  "upstream": "https://github.com/lxgw/yozai-font",
+  "changes": "以 Yozai 为底库；仅「乱」「写」轻微旋转，其余轮廓继承底库。",
+  "license_sha256": "86b3a0b5162848503241d80ea9a309a6459690ba7dc547940758a6a689a53b02",
+  "files": [
+    {
+      "file": "fonts/wonky-notes/PallyWonkyNotes-Light.ttf",
+      "style": "Light",
+      "weight": 300,
+      "format": "TTF",
+      "mapped_codepoints": 26006,
+      "han_mappings": 22719,
+      "sha256": "20d963ac4596ed030194ce3dc36c969c9e748071856ae312792aec7442139bac",
+      "input_sha256": "fe699ae777b7fa7b784bc558514b3b433ae5d6edb11a716a5343138f82b639ac",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Luanxie",
+      "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    },
+    {
+      "file": "fonts/wonky-notes/PallyWonkyNotes-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 26006,
+      "han_mappings": 22719,
+      "sha256": "06e0cacb314f16049a28c4b7dd71ad65cd7fd651347e5735a12253750c8d198c",
+      "input_sha256": "73903bfc8aed36531c5dc411483c71ef1922fbd462baea7d8c6f66616191d8af",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Luanxie",
+      "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    },
+    {
+      "file": "fonts/wonky-notes/PallyWonkyNotes-Medium.ttf",
+      "style": "Medium",
+      "weight": 500,
+      "format": "TTF",
+      "mapped_codepoints": 26006,
+      "han_mappings": 22719,
+      "sha256": "9daae8896924e4a3d5f66e0495d00c1070be7ff0ced7b21b93b80d50f0b49f0f",
+      "input_sha256": "2d8d1e8fc059720a146af55313d873daa7b7871246e02eadd8f6d424775b5618",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Luanxie",
+      "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "糯米日常",
+  "former_name": "糯甜",
+  "upstream": "https://github.com/lxgw/yozai-font",
+  "changes": "保留已确认的 Yozai 原生手写轮廓；这是字体选型与整理版，没有重绘全部汉字。",
+  "license_sha256": "86b3a0b5162848503241d80ea9a309a6459690ba7dc547940758a6a689a53b02",
+  "files": [
+    {
+      "file": "fonts/nuomi/PallyNuomi-Light.ttf",
+      "style": "Light",
+      "weight": 300,
+      "format": "TTF",
+      "mapped_codepoints": 26006,
+      "han_mappings": 22719,
+      "sha256": "4535befde3dce992cff27c92c20bb3ef9a0314db3660a8b147dd6ff82855989a",
+      "input_sha256": "62d8c9cb1919c9c2240a32e2dd99db2adb06d08fce17ef28e9546d8bfcd8cae0",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Nuotian",
+      "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    },
+    {
+      "file": "fonts/nuomi/PallyNuomi-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 26006,
+      "han_mappings": 22719,
+      "sha256": "eb89f1879b11d7e97acb4818b4c7130579be2d365799ea82a686fee4003c44ae",
+      "input_sha256": "30bfd33b45941548572298f512970f469e010471cea93d4622f0bcb5b0121356",
+      "coverage": {
+        "common3500": {
+          "covered": 3500,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 8105,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 5401,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Nuotian",
+      "source_copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.\nModifications: Pally",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}

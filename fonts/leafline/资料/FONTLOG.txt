@@ -1,0 +1,5 @@
+Leafline 1.000
+Upstream: https://github.com/coreyhu/Urbanist
+Urbanist 1.303 原生 400 底库；独立重绘 a/n/h/m/f/t，含重音组件共 38 个轮廓变化，并调整 ra/Pa 阅读字距。
+Repackaging preserves all Unicode cmap mappings, input outlines, advances and original copyright.
+Fonts remain under SIL OFL 1.1.

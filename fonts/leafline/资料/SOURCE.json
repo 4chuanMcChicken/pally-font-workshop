@@ -1,0 +1,42 @@
+{
+  "name": "Leafline",
+  "former_name": "Leafline",
+  "upstream": "https://github.com/coreyhu/Urbanist",
+  "changes": "Urbanist 1.303 原生 400 底库；独立重绘 a/n/h/m/f/t，含重音组件共 38 个轮廓变化，并调整 ra/Pa 阅读字距。",
+  "license_sha256": "ee1221b1c2d08920e5f9ca764eb228dafa5c8090df9cf665373c2287b9cb8f49",
+  "files": [
+    {
+      "file": "fonts/leafline/PallyLeafline-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "format": "TTF",
+      "mapped_codepoints": 491,
+      "han_mappings": 0,
+      "sha256": "34ef69ee3b75a4d96ffa63f9baca89572950a1aecca9d409e8d8b3f9da6be2cb",
+      "input_sha256": "e2a498c8393d4de0d7f555bac03795fae70bdf6a474cb37650fd04cd07cda8b5",
+      "coverage": {
+        "common3500": {
+          "covered": 0,
+          "total": 3500
+        },
+        "standard8105": {
+          "covered": 0,
+          "total": 8105
+        },
+        "big5common5401": {
+          "covered": 0,
+          "total": 5401
+        }
+      },
+      "source_family": "Pally Leafline",
+      "source_copyright": "Copyright 2021 The Urbanist Project Authors (https://github.com/coreyhu/Urbanist)",
+      "checks": {
+        "all_unicode_cmaps_preserved": true,
+        "all_input_outlines_preserved": true,
+        "horizontal_metrics_preserved": true,
+        "sample_shaping_preserved": true
+      }
+    }
+  ],
+  "han_count_definition": "Unicode 14.0 names starting CJK UNIFIED IDEOGRAPH- or CJK COMPATIBILITY IDEOGRAPH-; enclosed ideographs and radicals excluded"
+}
